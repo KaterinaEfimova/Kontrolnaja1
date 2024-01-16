@@ -1,0 +1,15 @@
+D:\Обучение\6. Контрольная\Массив\bin\Debug\net6.0\Массив.exe
+D:\Обучение\6. Контрольная\Массив\bin\Debug\net6.0\Массив.deps.json
+D:\Обучение\6. Контрольная\Массив\bin\Debug\net6.0\Массив.runtimeconfig.json
+D:\Обучение\6. Контрольная\Массив\bin\Debug\net6.0\Массив.dll
+D:\Обучение\6. Контрольная\Массив\bin\Debug\net6.0\Массив.pdb
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.csproj.AssemblyReference.cache
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.AssemblyInfoInputs.cache
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.AssemblyInfo.cs
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.csproj.CoreCompileInputs.cache
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.dll
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\refint\Массив.dll
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.pdb
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\Массив.genruntimeconfig.cache
+D:\Обучение\6. Контрольная\Массив\obj\Debug\net6.0\ref\Массив.dll
